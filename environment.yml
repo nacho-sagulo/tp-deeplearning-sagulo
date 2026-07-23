@@ -1,0 +1,19 @@
+name: pytorch
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - cpuonly
+  - torchvision
+  - torchaudio
+  - pytorch
+  - ipykernel
+  - ipywidgets 
+  - seaborn
+  - matplotlib
+  - pandas
+  - numpy
+  - pytorch-lightning
+
+

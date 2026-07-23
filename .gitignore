@@ -1,0 +1,15 @@
+__pycache__
+.claude
+checkpoints/
+checkpoints_b/
+checkpoints_b_hp1/
+checkpoints_b_hp1_ext/
+checkpoints_b_hp2/
+checkpoints_b_hp3/
+lightning_logs/
+lightning_logs_b/
+lightning_logs_b_hp1/
+lightning_logs_b_hp1_ext/
+lightning_logs_b_hp2/
+lightning_logs_b_hp3/
+
