@@ -46,6 +46,11 @@ reentrenar cada vez.
 3. Ejecucion del pipeline completo (desde los datos crudos)
 -----------------------------------------------------------------
 
+Los 3 recursos de datos utilizados (Pozos, Producción de Pozos de Gas y Petróleo 
+No Convencional y Datos de fractura de pozos), su descripcion y los links para
+bajarlos se detallan en la seccion inicial "Vision General de la Preparación de datos"
+de la notebook preparacion.ipynb
+
 Para regenerar datos_modelo.csv desde cero (por ejemplo, si cambian los
 datos crudos de SESCO en data/), correr primero preparacion.ipynb: ahi
 se cargan los CSV crudos, se deciden los criterios de seleccion de
